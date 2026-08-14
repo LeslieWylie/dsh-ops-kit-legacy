@@ -3,8 +3,8 @@
 `dsh-ops-kit` is a reusable DeepSeek Harness bundle for evidence-driven memory, orchestration, benchmark operations, repository audits, and plugin release workflows. It packages a substantial set of portable skills and read-only tools:
 
 - Git-first memory: bounded local retrieval, source provenance, validation, and promotion evidence.
-- RLVR orchestration: scope → baseline → adaptive work → coverage review → artifact handoff.
-- OctoLoop orchestration: leader-only dispatch, shared-worktree coordination, runtime ownership, and cleanup evidence.
+- Evidence orchestration: scope → baseline → adaptive work → coverage review → artifact handoff.
+- Multi-agent loop orchestration: leader-only dispatch, shared-worktree coordination, runtime ownership, and cleanup evidence.
 - Benchmark evidence: manifests, prechecks, artifact inventories, and secret hygiene.
 - DSH plugin release: package contracts, offline installation, live profile probes, and rollback.
 
