@@ -1,12 +1,20 @@
-# dsh-ops-kit
+> **⚠️ Archived — superseded by [dsh-ops-kit](https://github.com/LeslieWylie/dsh-ops-kit)**
+> This repository predates the current `dsh-ops-kit` bundle and is kept read-only so existing installs keep resolving. Please switch to `dsh-ops-kit`.
+>
+> **已归档 — 已由 [dsh-ops-kit](https://github.com/LeslieWylie/dsh-ops-kit) 取代**
+> 本仓库是当前 `dsh-ops-kit` bundle 的前身，保留为只读以避免已有安装解析失败。请改用 `dsh-ops-kit`。
+
+---
+
+# dsh-ops-kit-legacy
 
 这是一个可复用的 DeepSeek Harness bundle，用于证据驱动的 memory、编排、benchmark 运维、仓库审计和插件发布。它不是一个很小的 prompt，而是一组可安装、可验证、可扩展的 skill 和只读工具。
 
 ## 它增强什么
 
 - **Git-first memory**：从有来源的 Markdown 记忆、索引和校验结果中检索，区分事实、推断、矛盾和缺口。
-- **RLVR 编排**：把研究/评测拆成目标、基线、执行、覆盖审查和交付，要求每一步都有证据。
-- **OctoLoop 编排**：保留 leader 唯一远程派工、成员共享工作树、runtime 归属和清理台账这些关键约束。
+- **证据编排**：把研究/评测拆成目标、基线、执行、覆盖审查和交付，要求每一步都有证据。
+- **多 agent loop 编排**：保留 leader 唯一远程派工、成员共享工作树、runtime 归属和清理台账这些关键约束。
 - **Benchmark evidence**：统一 run manifest、precheck、日志、结果、清理报告和敏感信息审计。
 - **插件发布**：从源码到可安装 DSH bundle，覆盖脱敏、构建、安装、真实重连探针、版本发布和回滚。
 
