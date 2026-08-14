@@ -6,8 +6,8 @@
     "dsh",
     "dsh-plugin",
     "deepseek-harness",
-    "rlvr",
-    "octoloop",
+    "evidence-memory",
+    "multi-agent-loop",
     "orchestration",
     "memory",
     "benchmark"
