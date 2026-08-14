@@ -1,11 +1,12 @@
 {
-  "name": "@dsh-community/dsh-ops-kit",
+  "name": "@dsh-community/dsh-ops-kit-legacy",
   "version": "0.1.0",
-  "description": "A reusable DeepSeek Harness bundle for evidence-driven memory, orchestration, benchmark operations, repository audits, and plugin release workflows.",
+  "description": "Archived: evidence-driven memory, multi-agent orchestration, benchmark, and plugin-release tools for DeepSeek Harness. Superseded by dsh-ops-kit.",
   "keywords": [
     "dsh",
     "dsh-plugin",
     "deepseek-harness",
+    "deprecated",
     "evidence-memory",
     "multi-agent-loop",
     "orchestration",
@@ -15,12 +16,12 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/LeslieWylie/dsh-ops-kit.git"
+    "url": "git+https://github.com/LeslieWylie/dsh-ops-kit-legacy.git"
   },
   "bugs": {
-    "url": "https://github.com/LeslieWylie/dsh-ops-kit/issues"
+    "url": "https://github.com/LeslieWylie/dsh-ops-kit-legacy/issues"
   },
-  "homepage": "https://github.com/LeslieWylie/dsh-ops-kit#readme",
+  "homepage": "https://github.com/LeslieWylie/dsh-ops-kit-legacy#readme",
   "type": "module",
   "main": "./lib/index.js",
   "types": "./lib/index.d.ts",
