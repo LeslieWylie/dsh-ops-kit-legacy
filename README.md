@@ -1,4 +1,12 @@
-# dsh-ops-kit
+> **⚠️ Archived — superseded by [dsh-ops-kit](https://github.com/LeslieWylie/dsh-ops-kit)**
+> This repository predates the current `dsh-ops-kit` bundle and is kept read-only so existing installs keep resolving. Please switch to `dsh-ops-kit`.
+>
+> **已归档 — 已由 [dsh-ops-kit](https://github.com/LeslieWylie/dsh-ops-kit) 取代**
+> 本仓库是当前 `dsh-ops-kit` bundle 的前身，保留为只读以避免已有安装解析失败。请改用 `dsh-ops-kit`。
+
+---
+
+# dsh-ops-kit-legacy
 
 `dsh-ops-kit` is a reusable DeepSeek Harness bundle for evidence-driven memory, orchestration, benchmark operations, repository audits, and plugin release workflows. It packages a substantial set of portable skills and read-only tools:
 
